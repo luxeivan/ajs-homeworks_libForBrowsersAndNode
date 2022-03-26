@@ -2,7 +2,7 @@
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
   },
-  "name": "ajs-homeworks_libforbrowsersandnode",
+  "name": "@luxeivan/ajs-homeworks_libforbrowsersandnode",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
